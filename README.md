@@ -31,6 +31,7 @@ A collection of interesting links to various procedural generation related stuff
   - Social Simulation
     - https://github.com/ShiJbey/neighborly
     - https://github.com/Kontari/Village/
+    - https://github.com/joonspk-research/generative_agents
 - Fibonacci Sphere
   - https://extremelearning.com.au/how-to-evenly-distribute-points-on-a-sphere-more-effectively-than-the-canonical-fibonacci-lattice/
   - https://www.redblobgames.com/x/1842-delaunay-voronoi-sphere/
