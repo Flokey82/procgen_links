@@ -20,6 +20,7 @@ A collection of interesting links to various procedural generation related stuff
 -  https://donjon.bin.sh/
 -  https://azgaar.wordpress.com/
 -  https://www.boristhebrave.com/
+-  https://frozenfractal.com/blog/
 
 ## World Generation
 
