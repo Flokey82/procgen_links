@@ -41,6 +41,8 @@ A collection of interesting links to various procedural generation related stuff
   - https://www.redblobgames.com/x/1939-planetary-dungeon/
   - https://catlikecoding.com/unity/tutorials/procedural-meshes/cube-sphere/
   - https://acko.net/blog/making-worlds-1-of-spheres-and-cubes/
+  - Fluid simulation https://github.com/smcameron/gaseous-giganticus
+  - Andrew Willmott (Spore) Tech Notes https://www.andrewwillmott.com/tech-notes
 - https://github.com/vraid/earthgen-old
 - https://web.archive.org/web/20190830102238/http://experilous.com/1/blog
 - https://www.patrickcelentano.com/blog/planet-sim-part-1
