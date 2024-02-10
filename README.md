@@ -21,6 +21,7 @@ A collection of interesting links to various procedural generation related stuff
 -  https://azgaar.wordpress.com/
 -  https://www.boristhebrave.com/
 -  https://frozenfractal.com/blog/
+-  https://jobtalle.com/
 
 ## World Generation
 
