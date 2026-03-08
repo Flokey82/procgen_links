@@ -3,7 +3,7 @@ A collection of interesting links to various procedural generation related stuff
 
 ## Link Collections / Wikis
 
-- https://procgen.space/resources
+- https://github.com/ArdorDeosis/procgenspace/blob/main/public/resources.json
 - http://pcg.wikidot.com/
 - https://wiki.nikiv.dev/computer-graphics/procedural-generation
 - https://pinboard.in/u:amitp/t:gamedev/
